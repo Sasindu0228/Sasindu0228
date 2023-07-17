@@ -1,3 +1,4 @@
+<img src=Banner.png>
 <h1 align="center">Hi 👋, I'm Sasindu Rashmika</h1>
 - 🌱 I’m currently learning **C++**
 
