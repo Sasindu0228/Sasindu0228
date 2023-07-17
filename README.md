@@ -1,12 +1,17 @@
-<img src=Banner.png>
 <h1 align="center">Hi 👋, I'm Sasindu Rashmika</h1>
-- 🌱 I’m currently learning **C++**
+<img src=Banner.png>
+
+- 👨‍💻 I’m currently learning **C++**
+
+- ⚡️I’m currently learning Python **Linux Shell Html PHP Java JS CSS C**
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **sasindu444rashmika@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+- 🧑‍🎓 I'm Still Student
 
 <h3 align="left">Connect with me:</h3>
 
